@@ -29,11 +29,11 @@ body{
     height: 60px;
     border-bottom: 2px solid white;
     background-color: white;
-    margin: 0 auto;
     color: navy;
-    font-size: xx-large;
+    font-size: 30px;
     font-weight: bolder;
     text-align: right;
+    word-wrap: break-word;
 }
 .buttons{
     padding: 15px 0px;
